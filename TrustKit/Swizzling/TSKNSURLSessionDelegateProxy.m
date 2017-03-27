@@ -105,7 +105,6 @@ static TSKTrustDecision _lastTrustDecision = (TSKTrustDecision)-1;
                                                }
                                              }
 
-                                             /* Older code which wasn't working for AT&T */
                                              /*if (status == ReachableViaWiFi) {
                                                  NSLog(@"Wifi network.... Ignore Proxy setup");
                                              } else {
